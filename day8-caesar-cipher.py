@@ -38,3 +38,5 @@ elif direction == "decode":
     decode(text,shift)
 else:
     print("invalid input for text, try again")
+
+
